@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 2344edfc-6d5b-4fc6-f39e-9866efaba371
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: bc955393-abe4-0470-614c-038dcd78d933
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 09fc2b6b-ebcc-7c47-bb03-f127a7a4ff84
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 12e1a3bf-55e8-7deb-1d39-d4152aa1d25c
+  name: Projects
+  pageRef: /pages/projects
+  weight: 40
